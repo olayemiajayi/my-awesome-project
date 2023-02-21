@@ -1,0 +1,41 @@
+body {
+  background-color: #ececec;
+}
+h1 {
+  text-align: right;
+  font-size: 55px;
+  color: #66bfbf;
+}
+h2,
+p {
+  text-align: right;
+  margin: 0 auto;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 28px;
+}
+li {
+  text-align: right;
+  font-size: 20px;
+  list-style-type: none;
+  margin: 0 auto;
+  font-family: "Courier New", Courier, monospace;
+}
+.temperature {
+  display: grid;
+  font-size: 48px;
+  width: 30%;
+  margin: 0 auto;
+  padding: 40px;
+  color: #7dd87d;
+  gap: 25px;
+}
+.weather {
+  text-align: right;
+  margin: 0 auto;
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+  color: #66bfbf;
+}
+a {
+  color: #2c5d63;
+}
