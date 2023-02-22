@@ -39,3 +39,9 @@ li {
 a {
   color: #2c5d63;
 }
+.source-code {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 20px;
+}
